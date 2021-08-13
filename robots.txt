@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mmckenzie13.github.io/mmckenzie13.github.io/sitemap.xml
